@@ -31,6 +31,6 @@ cat <<EOF
 
 # Now push to GitHub with something like...
 
-git remote add origin https://github.com/surya-AE/timetravelerr
+git remote add origin https://github.com/xxxx/xxxx
 git push -u origin main
 EOF
